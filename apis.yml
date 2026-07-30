@@ -1,4 +1,16 @@
 aid: foodish
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/foodish.png
 name: Foodish
 description: "Random pictures of food dishes"
 url: https://github.com/surhud004/Foodish#readme
